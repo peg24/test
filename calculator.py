@@ -5,5 +5,5 @@ num2 = input("Andre tall: ")
 result = float(num1) + float(num2)
 
 print(str(num1) + " + " + str(num2) + " er " + str(int(result)) + "\n")
-
+# Dette er gøy!!!
  
