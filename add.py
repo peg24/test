@@ -1,1 +1,1 @@
-printf("Dette er enny fil")
+printf("Dette er en ny fil")
